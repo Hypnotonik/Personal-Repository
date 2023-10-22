@@ -1,27 +1,22 @@
-# Julie Mannering
+# Tyler Bremer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, C++, Lua, SQL
 
 ## Education
-- 				       		
-- M.S., Compiter Inoformation Systems	| 		        		
-- B.S., Business with CIS |
+- Major in Cyber Security
 
 ## Work Experience
-**Instructor
-- 
-
-**Data Science Consultant
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+Worked at a call center
+- Would work with the phone to make sure that the program was properly captioning calls for the customers phone.
 
 ## Projects
-### 
-
+### Text Based Rpg
+- Interactions such as fights, and inventory. The player can level up ect.
 
 
 ## Skills
-- C
+- Word
+- Excel
 
 ## Publications
 1. 
