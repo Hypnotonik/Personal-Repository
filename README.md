@@ -8,5 +8,7 @@ Another thing is trigger warnings for anything that may trigger someone. Ill avo
 ### Data Privacy
 When ever anyone on the internet is interacting with something they should be concerned about their data privacy. With my text based rpg, you will not be connecting to the internet, and no data will be store on servers. As such the only data of the player will be a save file (if there is one). The save file will only store data on the player's game, and nothing else
 
+### Monetization
+Its no secret that most games aim to monetize their game in some way. Wheter this is by them charging a fee to own/play the game. Or having the game be free, but there is skins or other micro transactions. My game will simply have no possible way for the user to even buy anything as there will be no micro transactions. The user will also not need to pay for my game as will it will be 100% free.
 
 
