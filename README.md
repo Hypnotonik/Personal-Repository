@@ -1,22 +1,14 @@
-# Tyler Bremer
+# Security Issues
 
-#### Technical Skills: Python, C++, Lua, SQL
+### Data
+There could be an issue of any stored data being sold or used against the user. For my text based rpg however there will not be any data stored anywhere but the user's computer. I will not have any way of getting that data or any other data from the user either.
 
-## Education
-- Major in Cyber Security
+### Code Vulnerabilities
+This is a big part when making anything with code. You have to make sure that nothing is vulnerable or will make the user vulnerable to attacks. My game will not connect to any network, and will be made in Python. Python has built in stack overflow, and other security measures that make it a good language to program my rpg in.
+- Input validation
+  This shouldnt be a problem with my game. The user will most likely have access to my code anyway, and could edit as they please. If there ends up being a reason for input validation I will make sure to implement it
 
-## Work Experience
-Worked at a call center
-- Would work with the phone to make sure that the program was properly captioning calls for the customers phone.
-
-## Projects
-### Text Based Rpg
-- Interactions such as fights, and inventory. The player can level up ect.
+### Cheats/exploits
+The user making a cheat for my game, or finding an exploit as a result of overlooked mechanics. With the nature of my game I will not make any sort of anti-cheat. There is no reason for one, if the the user wants to cheat thats their choice. As far as exploits go I will any exploits that are too obvious, or will affect a players typical playthrough of my game. Any other exploit found will likely be fun, and harmless.
 
 
-## Skills
-- Word
-- Excel
-
-## Examples of project
-[text based rpg](https://cdn.discordapp.com/attachments/954975322913247263/1165742151104213022/Text20Based20RPG20project2.png?ex=6547f4fb&is=65357ffb&hm=c0181cefad45c60a5673e0cc71926e1b0eecad24ee5cf7d76c39c4053a3a133e&)
